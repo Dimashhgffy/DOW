@@ -1,11 +1,11 @@
 {
-    "token": "INPUT TOKEN HERE",
-    "serverID": "INPUT GUILD ID HERE",
+    "token": "MTAxNjkyNDc3Nzc1NzI5MDU2OA.GhYJPS.9Df3h_5itZHi5YN7Ey5Wu6Ov3iN6wHPhrFck1c",
+    "serverID": "937147115359064075",
     "newChannelName": "DOW",
     "banMembers": true,
     "deleteChannels": true,
     "deleteEmotes": true,
     "commandModeToggle": false,
-    "banIntervalTime": 200
+    "banIntervalTime": 1
     
 }
